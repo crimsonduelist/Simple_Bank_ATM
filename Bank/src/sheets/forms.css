@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 14, 2020, 8:50:14 PM
+    Author     : WiZ14
+*/
+
+.root{-fx-background-color: blue;/*fuchsia*/
+-fx-font-family:'DejaVu Serif',Georgia,"Times New Roman",Times,serif;
+-fx-font-size:10px;
+-fx-text-inner-color:red;-fx-border-color:black;}
+.label{-fx-background-color: crimson;
+-fx-font-family:"Adobe Devanagari";
+-fx-text-fill: white;
+}.text-field{-fx-background-color: #000066;-fx-border-color:black;}

@@ -1,0 +1,6 @@
+
+creditcardnumber:1
+Gaschoice:regular
+Gas:0.2
+liters
+bill:0.5
